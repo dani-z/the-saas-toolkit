@@ -6,6 +6,10 @@ A collection of resources (the majority offering generous free tiers) that will 
 - https://resend.com/
 - https://loops.so/
 
+## Email templates
+- https://www.mailing.run/
+- https://react.email/
+
 ## Analytics
 - https://umami.is/
 - https://plausible.io/
