@@ -21,4 +21,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 ## Permissions
 - https://www.permit.io/
 
+## Charts
+- https://www.tremor.so/
+
 TBC...
