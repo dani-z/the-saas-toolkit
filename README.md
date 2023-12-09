@@ -1,5 +1,5 @@
 # The SAAS Toolkit
-A collection of resources (majority offering generous free tiers) that will help you get started in your SAAS journey
+A collection of resources (the majority offering generous free tiers) that will help you get started in your SAAS journey
 
 ## Email and marketing services
 - https://www.useplunk.com/
@@ -13,5 +13,8 @@ A collection of resources (majority offering generous free tiers) that will help
 
 ## Event data capturing
 - https://jitsu.com/
+
+## Permissions
+- https://www.permit.io/
 
 TBC...
