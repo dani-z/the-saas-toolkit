@@ -24,4 +24,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 ## Charts
 - https://www.tremor.so/
 
+## File storage
+- https://uploadthing.com/
+
 TBC...
