@@ -30,4 +30,8 @@ A collection of resources (the majority offering generous free tiers) that will 
 ## Qs and background jobs
 - https://www.inngest.com/
 
+## Customer support / chat
+- https://www.plain.com/
+
+
 TBC...
