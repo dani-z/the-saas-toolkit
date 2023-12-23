@@ -27,4 +27,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 ## File storage
 - https://uploadthing.com/
 
+## Qs and background jobs
+- https://www.inngest.com/
+
 TBC...
