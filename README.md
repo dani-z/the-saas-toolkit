@@ -36,5 +36,10 @@ A collection of resources (the majority offering generous free tiers) that will 
 ## Feedback and Feature request
 - https://productlane.com/
 
+## Payments and invoicing
+- https://stripe.com/
+- https://www.lemonsqueezy.com/
+- https://zenvoice.io/
+
 
 TBC...
