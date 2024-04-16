@@ -26,6 +26,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 
 ## File storage
 - https://uploadthing.com/
+- https://uploadcare.com/
 
 ## Qs and background jobs
 - https://www.inngest.com/
