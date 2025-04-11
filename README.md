@@ -15,11 +15,23 @@ A collection of resources (the majority offering generous free tiers) that will 
 - https://plausible.io/
 - https://posthog.com/
 
+## Auth
+- https://www.better-auth.com
+- https://authjs.dev/
+- https://clerk.dev (self-hosted)
+
+## Observability
+- https://betterstack.com
+
 ## Event data capturing
 - https://jitsu.com/
 
 ## Permissions
 - https://www.permit.io/
+
+## Background jobs and cron
+- https://trigger.dev/
+- https://mergent.co/
 
 ## Charts
 - https://www.tremor.so/
@@ -39,6 +51,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 
 ## Payments and invoicing
 - https://stripe.com/
+- https://polar.sh/
 - https://www.lemonsqueezy.com/
 - https://zenvoice.io/
 
