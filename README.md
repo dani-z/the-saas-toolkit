@@ -14,6 +14,7 @@ A collection of resources (the majority offering generous free tiers) that will 
 - https://umami.is/
 - https://plausible.io/
 - https://posthog.com/
+- https://seline.com/
 
 ## Auth
 - https://www.better-auth.com
